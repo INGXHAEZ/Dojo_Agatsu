@@ -13,7 +13,7 @@ const items: MediaItem[] = [
   { type: "image", src: "/galeria1.jpg", alt: "Entrenamiento 1" },
   { type: "image", src: "/galeria2.jpg", alt: "Entrenamiento 2" },
   { type: "video", src: "/videos/emily.mp4" },
-  { type: "image", src: "/galeria3.jpg", alt: "Entrenamiento 3" },
+  { type: "image", src: "/darla.jpg", alt: "Entrenamiento 3" },
   { type: "video", src: "/videos/entrenamiento.mp4" },
 ];
 
